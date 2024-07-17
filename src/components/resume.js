@@ -12,10 +12,10 @@ const ResumeDownload = () => {
   };
 
   return (
-    <div>
+    <section>
       <h2>Download My Resume</h2>
       <button onClick={handleDownload}>Download</button>
-    </div>
+    </section>
   );
 };
 
