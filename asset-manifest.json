@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bhavesh-bio/static/css/main.a03c6473.css",
-    "main.js": "/bhavesh-bio/static/js/main.861b6317.js",
+    "main.js": "/bhavesh-bio/static/js/main.177752eb.js",
     "index.html": "/bhavesh-bio/index.html",
     "main.a03c6473.css.map": "/bhavesh-bio/static/css/main.a03c6473.css.map",
-    "main.861b6317.js.map": "/bhavesh-bio/static/js/main.861b6317.js.map"
+    "main.177752eb.js.map": "/bhavesh-bio/static/js/main.177752eb.js.map"
   },
   "entrypoints": [
     "static/css/main.a03c6473.css",
-    "static/js/main.861b6317.js"
+    "static/js/main.177752eb.js"
   ]
 }
