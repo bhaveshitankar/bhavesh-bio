@@ -33,7 +33,7 @@ import { Routes, Route, Link } from 'react-router-dom';
 import ResumeDownload from './components/resume';
 
 function App() {
-  const [isNightMode, setIsNightMode] = useState(false);
+  const [isNightMode, setIsNightMode] = useState(true);
 
   const toggleTheme = () => {
     setIsNightMode(!isNightMode);
