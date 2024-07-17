@@ -5,7 +5,7 @@ const ResumeDownload = () => {
 
   const handleDownload = () => {
     const downloadLink = document.createElement('a');
-    downloadLink.href = process.env.PUBLIC_URL + resumeFileName;
+    downloadLink.href = process.env.PUBLIC_URL +"/"+resumeFileName;
     downloadLink.download = resumeFileName;
     downloadLink.click();
   };
