@@ -46,19 +46,19 @@ function App() {
       </button>
       <nav>
         <ul>
-          <li><Link to="/">Home</Link></li>
-          <li><Link to="/education">Education</Link></li>
-          <li><Link to="/experience">Experience</Link></li>
-          <li><Link to="/resume">Resume</Link></li>
-          <li><Link to="/contact">Contact</Link></li>
+          <li><Link to="/bhavesh-bio/">Home</Link></li>
+          <li><Link to="/bhavesh-bio/education">Education</Link></li>
+          <li><Link to="/bhavesh-bio/experience">Experience</Link></li>
+          <li><Link to="/bhavesh-bio/resume">Resume</Link></li>
+          <li><Link to="/bhavesh-bio/contact">Contact</Link></li>
         </ul>
       </nav>
       <Routes>
-        <Route exact path="/" element={<Header />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="/experience" element={<Experience />} />
-        <Route path="/education" element={<Education />} />
-        <Route path="/resume" element={<ResumeDownload />} />
+        <Route exact path="/bhavesh-bio/" element={<Header />} />
+        <Route path="/bhavesh-bio/contact" element={<Contact />} />
+        <Route path="/bhavesh-bio/experience" element={<Experience />} />
+        <Route path="/bhavesh-bio/education" element={<Education />} />
+        <Route path="/bhavesh-bio/resume" element={<ResumeDownload />} />
       </Routes>
     </div>
   );
