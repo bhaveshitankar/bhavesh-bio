@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bhavesh-bio/static/css/main.a03c6473.css",
+    "main.js": "/bhavesh-bio/static/js/main.dfac25fe.js",
+    "index.html": "/bhavesh-bio/index.html",
+    "main.a03c6473.css.map": "/bhavesh-bio/static/css/main.a03c6473.css.map",
+    "main.dfac25fe.js.map": "/bhavesh-bio/static/js/main.dfac25fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a03c6473.css",
+    "static/js/main.dfac25fe.js"
+  ]
+}
